@@ -1,0 +1,1128 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "C:/Users/Chris/Desktop/blog/codeventures/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "C:/Users/Chris/Desktop/blog/codeventures/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "96090077c5de64faa8463867b331d88a",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "65d0c3af16be3e6505c9b6253f5ef85d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c6362055fb87a09522bd14d3f8aa67a7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d6ef7a178aae5949330135bd7b93b9dd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "67cd7ce2ff8584f391456bea274302e5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e638bc521dfba6c376cf6951278a2382",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c124441d9bb044be1cba6424d867d078",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+      "resolve": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby-transformer-remark",
+      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "name": "gatsby-transformer-remark",
+      "version": "2.3.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.3.8",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "cd895a5412315a0a22a5e208152830c2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "c67a8176-c15e-5198-8006-bcc3e1438b3c": {
+      "resolve": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby-source-filesystem",
+      "id": "c67a8176-c15e-5198-8006-bcc3e1438b3c",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.28",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "pages",
+        "path": "C:\\Users\\Chris\\Desktop\\blog\\codeventures/src/pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "800cf0a5ccd5b0eced5007920d81ed8e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "C:/Users/Chris/Desktop/blog/codeventures",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "908cf4af9dd9167f9ed41606287d39ec",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Chris/Desktop/blog/codeventures",
+      "packageJson": {
+        "name": "gatsby-starter-hello-world",
+        "description": "A simplified bare-bones starter for Gatsby",
+        "version": "0.1.0",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.2.11"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.28"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.3.8"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.5"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.16.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "cc1763c0a78c3af8dc32ecb422c21623",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a40464fb-c4c2-5aae-8a59-ede370798386": {
+      "resolve": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby-plugin-page-creator",
+      "id": "a40464fb-c4c2-5aae-8a59-ede370798386",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:/Users/Chris/Desktop/blog/codeventures/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Chris/Desktop/blog/codeventures/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2ed260d7eac4f6524a1d5b42d9bd28a6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "My Codeventures",
+        "description": "My attempt at blogging my coding experience."
+      },
+      "port": "8000",
+      "host": "localhost",
+      "buildTime": "2019-03-26T04:27:47.216Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "40fe50ee8a15dd619bd36f9d7a2a20b5",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "645ecc8e-6c05-548b-ba1b-ed13ab271d2b": {
+      "id": "645ecc8e-6c05-548b-ba1b-ed13ab271d2b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "55906340404dab8c55f4d222d1476790",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-26T04:17:15.450Z",
+      "accessTime": "2019-03-26T04:17:15.450Z",
+      "changeTime": "2019-03-26T04:17:15.450Z",
+      "birthTime": "2019-03-26T03:45:51.552Z",
+      "root": "C:/",
+      "dir": "C:/Users/Chris/Desktop/blog/codeventures/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 1645777868,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3940649674767814,
+      "atimeMs": 1553573835450.2085,
+      "mtimeMs": 1553573835450.2085,
+      "ctimeMs": 1553573835450.2085,
+      "birthtimeMs": 1553571951551.8726,
+      "atime": "2019-03-26T04:17:15.450Z",
+      "mtime": "2019-03-26T04:17:15.450Z",
+      "ctime": "2019-03-26T04:17:15.450Z",
+      "birthtime": "2019-03-26T03:45:51.552Z"
+    },
+    "264927eb-ee09-532c-b666-3989d602cbac": {
+      "id": "264927eb-ee09-532c-b666-3989d602cbac",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "03ebcb0b54e17188a9b8291812efefa4",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src\\pages\\index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 75,
+      "prettySize": "75 B",
+      "modifiedTime": "2019-03-26T03:45:51.552Z",
+      "accessTime": "2019-03-26T03:45:51.552Z",
+      "changeTime": "2019-03-26T03:45:51.552Z",
+      "birthTime": "2019-03-26T03:45:51.552Z",
+      "root": "C:/",
+      "dir": "C:/Users/Chris/Desktop/blog/codeventures/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 1645777868,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 6192449488453086,
+      "atimeMs": 1553571951551.8726,
+      "mtimeMs": 1553571951551.8726,
+      "ctimeMs": 1553571951551.8726,
+      "birthtimeMs": 1553571951551.8726,
+      "atime": "2019-03-26T03:45:51.552Z",
+      "mtime": "2019-03-26T03:45:51.552Z",
+      "ctime": "2019-03-26T03:45:51.552Z",
+      "birthtime": "2019-03-26T03:45:51.552Z"
+    },
+    "2715bc64-372f-5b96-8343-3b6ab82eb085": {
+      "id": "2715bc64-372f-5b96-8343-3b6ab82eb085",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "6d0bda401c18dab70f5092d2e25271ab",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\2019-03-25-first-post\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-25-first-post",
+      "relativePath": "2019-03-25-first-post",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-26T04:02:38.766Z",
+      "accessTime": "2019-03-26T04:02:38.938Z",
+      "changeTime": "2019-03-26T04:17:05.980Z",
+      "birthTime": "2019-03-26T03:59:22.181Z",
+      "root": "C:/",
+      "dir": "C:/Users/Chris/Desktop/blog/codeventures/src/pages",
+      "base": "2019-03-25-first-post",
+      "ext": "",
+      "name": "2019-03-25-first-post",
+      "relativeDirectory": "",
+      "dev": 1645777868,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5910974511729916,
+      "atimeMs": 1553572958937.9297,
+      "mtimeMs": 1553572958765.8906,
+      "ctimeMs": 1553573825979.527,
+      "birthtimeMs": 1553572762180.7256,
+      "atime": "2019-03-26T04:02:38.938Z",
+      "mtime": "2019-03-26T04:02:38.766Z",
+      "ctime": "2019-03-26T04:17:05.980Z",
+      "birthtime": "2019-03-26T03:59:22.181Z"
+    },
+    "1b4dd368-1be7-5780-8386-8eeb822e45ac": {
+      "id": "1b4dd368-1be7-5780-8386-8eeb822e45ac",
+      "children": [
+        "aaea6843-e6de-5c1c-a227-af95a6df732e"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f5b72f5479743c6c818e8e058f4c74da",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\pages\\2019-03-25-first-post\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-25-first-post/index.md",
+      "relativePath": "2019-03-25-first-post/index.md",
+      "extension": "md",
+      "size": 133,
+      "prettySize": "133 B",
+      "modifiedTime": "2019-03-26T04:21:49.747Z",
+      "accessTime": "2019-03-26T04:21:49.747Z",
+      "changeTime": "2019-03-26T04:21:49.747Z",
+      "birthTime": "2019-03-26T04:02:38.752Z",
+      "root": "C:/",
+      "dir": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-25-first-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2019-03-25-first-post",
+      "dev": 1645777868,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 67835469387932360,
+      "atimeMs": 1553574109747.101,
+      "mtimeMs": 1553574109747.101,
+      "ctimeMs": 1553574109747.101,
+      "birthtimeMs": 1553572958751.8872,
+      "atime": "2019-03-26T04:21:49.747Z",
+      "mtime": "2019-03-26T04:21:49.747Z",
+      "ctime": "2019-03-26T04:21:49.747Z",
+      "birthtime": "2019-03-26T04:02:38.752Z"
+    },
+    "bd801260-ec4b-566a-93e8-4e076a44a1d1": {
+      "id": "bd801260-ec4b-566a-93e8-4e076a44a1d1",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "cdf741aaf7b2b511f473a45ba471a742",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\2019-03-26-second-post\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-26-second-post",
+      "relativePath": "2019-03-26-second-post",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-26T04:21:16.221Z",
+      "accessTime": "2019-03-26T04:21:16.221Z",
+      "changeTime": "2019-03-26T04:21:16.221Z",
+      "birthTime": "2019-03-26T03:59:36.436Z",
+      "root": "C:/",
+      "dir": "C:/Users/Chris/Desktop/blog/codeventures/src/pages",
+      "base": "2019-03-26-second-post",
+      "ext": "",
+      "name": "2019-03-26-second-post",
+      "relativeDirectory": "",
+      "dev": 1645777868,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5348024558308605,
+      "atimeMs": 1553574076221.236,
+      "mtimeMs": 1553574076221.236,
+      "ctimeMs": 1553574076221.236,
+      "birthtimeMs": 1553572776436.3357,
+      "atime": "2019-03-26T04:21:16.221Z",
+      "mtime": "2019-03-26T04:21:16.221Z",
+      "ctime": "2019-03-26T04:21:16.221Z",
+      "birthtime": "2019-03-26T03:59:36.436Z"
+    },
+    "557b0dff-821a-572b-a9b1-93074d2b547a": {
+      "id": "557b0dff-821a-572b-a9b1-93074d2b547a",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "46b77f85fd4a7c38a1f95c59287aac67",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\2019-03-27-third-post\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-27-third-post",
+      "relativePath": "2019-03-27-third-post",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-03-26T04:21:56.633Z",
+      "accessTime": "2019-03-26T04:21:56.633Z",
+      "changeTime": "2019-03-26T04:21:56.633Z",
+      "birthTime": "2019-03-26T03:59:50.607Z",
+      "root": "C:/",
+      "dir": "C:/Users/Chris/Desktop/blog/codeventures/src/pages",
+      "base": "2019-03-27-third-post",
+      "ext": "",
+      "name": "2019-03-27-third-post",
+      "relativeDirectory": "",
+      "dev": 1645777868,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 9288674232105430,
+      "atimeMs": 1553574116632.5454,
+      "mtimeMs": 1553574116632.5454,
+      "ctimeMs": 1553574116632.5454,
+      "birthtimeMs": 1553572790606.904,
+      "atime": "2019-03-26T04:21:56.633Z",
+      "mtime": "2019-03-26T04:21:56.633Z",
+      "ctime": "2019-03-26T04:21:56.633Z",
+      "birthtime": "2019-03-26T03:59:50.607Z"
+    },
+    "e309b08d-427c-5883-b809-cced31c1af6c": {
+      "id": "e309b08d-427c-5883-b809-cced31c1af6c",
+      "children": [
+        "d1e2e5ec-4607-5030-9be9-c33916477bc6"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "0ba556563a2df25809248f01f49c69c9",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\pages\\2019-03-26-second-post\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-26-second-post/index.md",
+      "relativePath": "2019-03-26-second-post/index.md",
+      "extension": "md",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2019-03-26T04:21:42.734Z",
+      "accessTime": "2019-03-26T04:21:42.734Z",
+      "changeTime": "2019-03-26T04:21:42.734Z",
+      "birthTime": "2019-03-26T04:21:16.221Z",
+      "root": "C:/",
+      "dir": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-26-second-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2019-03-26-second-post",
+      "dev": 1645777868,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 9851624185320112,
+      "atimeMs": 1553574102733.51,
+      "mtimeMs": 1553574102733.51,
+      "ctimeMs": 1553574102733.51,
+      "birthtimeMs": 1553574076221.236,
+      "atime": "2019-03-26T04:21:42.734Z",
+      "mtime": "2019-03-26T04:21:42.734Z",
+      "ctime": "2019-03-26T04:21:42.734Z",
+      "birthtime": "2019-03-26T04:21:16.221Z"
+    },
+    "d1e2e5ec-4607-5030-9be9-c33916477bc6": {
+      "id": "d1e2e5ec-4607-5030-9be9-c33916477bc6",
+      "children": [],
+      "parent": "e309b08d-427c-5883-b809-cced31c1af6c",
+      "internal": {
+        "content": "path: \"/post02\"\ndate: \"2019-03-26\"\ntitle: \"My second Post\"\ntags: ['test', 'that']\nexcerpt: \"A test post preview 2\"\n---\nLorem ipsum Test.",
+        "type": "MarkdownRemark",
+        "contentDigest": "c202b2eec86ebad429d1ab143af1b01c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": ""
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "path: \"/post02\"\ndate: \"2019-03-26\"\ntitle: \"My second Post\"\ntags: ['test', 'that']\nexcerpt: \"A test post preview 2\"\n---\nLorem ipsum Test.",
+      "fileAbsolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-26-second-post/index.md"
+    },
+    "aaea6843-e6de-5c1c-a227-af95a6df732e": {
+      "id": "aaea6843-e6de-5c1c-a227-af95a6df732e",
+      "children": [],
+      "parent": "1b4dd368-1be7-5780-8386-8eeb822e45ac",
+      "internal": {
+        "content": "path: \"/post01\"\ndate: \"2019-03-25\"\ntitle: \"My First Post\"\ntags: ['test', 'that']\nexcerpt: \"A test post preview\"\n---\nLorem ipsum Test.",
+        "type": "MarkdownRemark",
+        "contentDigest": "4131905e4c5886af723ed1a019c0e543",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": ""
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "path: \"/post01\"\ndate: \"2019-03-25\"\ntitle: \"My First Post\"\ntags: ['test', 'that']\nexcerpt: \"A test post preview\"\n---\nLorem ipsum Test.",
+      "fileAbsolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-25-first-post/index.md"
+    },
+    "25284192-67e4-5387-852e-eb382740f93c": {
+      "id": "25284192-67e4-5387-852e-eb382740f93c",
+      "children": [
+        "884c08f7-13c5-55f0-b2ae-c7aad603227d"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "0b368a6d01f2305e08d65b83a1c0c6d7",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src\\pages\\2019-03-27-third-post\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-27-third-post/index.md",
+      "relativePath": "2019-03-27-third-post/index.md",
+      "extension": "md",
+      "size": 135,
+      "prettySize": "135 B",
+      "modifiedTime": "2019-03-26T04:22:11.077Z",
+      "accessTime": "2019-03-26T04:22:11.077Z",
+      "changeTime": "2019-03-26T04:22:11.077Z",
+      "birthTime": "2019-03-26T04:21:56.633Z",
+      "root": "C:/",
+      "dir": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-27-third-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2019-03-27-third-post",
+      "dev": 1645777868,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 77968568549295280,
+      "atimeMs": 1553574131077.3499,
+      "mtimeMs": 1553574131077.3499,
+      "ctimeMs": 1553574131077.3499,
+      "birthtimeMs": 1553574116632.5454,
+      "atime": "2019-03-26T04:22:11.077Z",
+      "mtime": "2019-03-26T04:22:11.077Z",
+      "ctime": "2019-03-26T04:22:11.077Z",
+      "birthtime": "2019-03-26T04:21:56.633Z"
+    },
+    "884c08f7-13c5-55f0-b2ae-c7aad603227d": {
+      "id": "884c08f7-13c5-55f0-b2ae-c7aad603227d",
+      "children": [],
+      "parent": "25284192-67e4-5387-852e-eb382740f93c",
+      "internal": {
+        "content": "path: \"/post03\"\ndate: \"2019-03-27\"\ntitle: \"My First Post\"\ntags: ['test', 'that']\nexcerpt: \"A test post preview 3\"\n---\nLorem ipsum Test.",
+        "type": "MarkdownRemark",
+        "contentDigest": "eea70b914d5efe168339b3c119d575ec",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": ""
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "path: \"/post03\"\ndate: \"2019-03-27\"\ntitle: \"My First Post\"\ntags: ['test', 'that']\nexcerpt: \"A test post preview 3\"\n---\nLorem ipsum Test.",
+      "fileAbsolutePath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/2019-03-27-third-post/index.md"
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "a40464fb-c4c2-5aae-8a59-ede370798386",
+      "pluginCreatorId": "a40464fb-c4c2-5aae-8a59-ede370798386",
+      "componentPath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ede11b922b0921ee8fd5e0206aee1b4c",
+        "description": "a40464fb-c4c2-5aae-8a59-ede370798386",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "95e1ae5b564721e010527c57acb78115"
+  },
+  "componentDataDependencies": {
+    "nodes": {},
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "index": "140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8"
+  },
+  "components": {
+    "C:/Users/Chris/Desktop/blog/codeventures/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "C:/Users/Chris/Desktop/blog/codeventures/.cache/dev-404-page.js"
+    },
+    "C:/Users/Chris/Desktop/blog/codeventures/src/pages/index.js": {
+      "query": "",
+      "componentPath": "C:/Users/Chris/Desktop/blog/codeventures/src/pages/index.js"
+    }
+  },
+  "staticQueryComponents": {}
+}

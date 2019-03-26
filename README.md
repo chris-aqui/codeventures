@@ -1,2 +1,2 @@
-# codeventures
-Coding Adventures - blogs
+gatsby develop
+http://localhost:8000/
